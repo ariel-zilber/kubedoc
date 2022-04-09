@@ -1,4 +1,4 @@
-module example/kubedoc
+module github.com/ariel-zilber/example/kubedoc
 
 go 1.13
 

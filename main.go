@@ -2,7 +2,7 @@ package main
 
 
 import (
-  "kubedoc/cmd"
+  "github.com/ariel-zilber/kubedoc/cmd"
 )
 
 
