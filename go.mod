@@ -1,9 +1,8 @@
-module kubedoc
-
+module github.com/ariel-zilber/kubedoc
 go 1.13
-
+//
 require (
-	github.com/ariel-zilber/kubedoc v0.0.0-20220409114759-e4e9a03233c4
+	github.com/ariel-zilber/kubedoc latest
 	github.com/client9/misspell v0.3.4 // indirect
 	github.com/spf13/cobra v1.4.0
 	honnef.co/go/tools v0.3.0 // indirect
