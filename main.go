@@ -1,7 +1,12 @@
 package main
 
-import "fmt"
+
+import (
+  "kubedoc/cmd"
+)
+
+
 
 func main() {
-	fmt.Println("Hello, world.")
+  cmd.Execute()
 }
